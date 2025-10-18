@@ -53,5 +53,3 @@ The module should generate the correct pulse waveform for all valid configuratio
 
 ---
 
-    output reg         o_invalid_config
-);
